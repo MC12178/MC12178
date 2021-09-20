@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MC12178
 - 👀 I’m interested in learning to be a professional developer.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and front end development.
 - 💞️ I’m looking to collaborate on anything! 
 - 📫 How to reach me: email. 
 
